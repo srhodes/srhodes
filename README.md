@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory HomeLab](https://github.com/srhodes/ActiveDirectoryServer2019)
+  - [Cyber Threat Hunt with Sentinel and Azure](https://github.com/srhodes/Cyber-Threat-Hunt-With-Microsoft-Sentinel/tree/main)
 
 
 <h2>📺 Popular YouTube Videos</h2>
