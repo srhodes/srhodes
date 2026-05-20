@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory HomeLab](https://github.com/srhodes/ActiveDirectoryServer2019)
-- <b></b>
 
 
 <h2>📺 Popular YouTube Videos</h2>
