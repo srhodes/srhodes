@@ -4,6 +4,7 @@
 
   - [Active Directory HomeLab](https://github.com/srhodes/ActiveDirectoryServer2019)
   - [Cyber Threat Hunt with Sentinel and Azure](https://github.com/srhodes/Cyber-Threat-Hunt-With-Microsoft-Sentinel/tree/main)
+  - [Extended Defender Response with API]
 
 
 <h2>📺 Popular YouTube Videos</h2>
