@@ -4,6 +4,7 @@
 
   - [Active Directory HomeLab](https://github.com/srhodes/ActiveDirectoryServer2019)
   - [Cyber Threat Hunt with Sentinel and Azure](https://github.com/srhodes/Cyber-Threat-Hunt-With-Microsoft-Sentinel/tree/main)
+  - Vulnerability Management (Coming Soon)
   - Extended Defender Response with API
 
 
@@ -12,6 +13,7 @@
 - [Demo| Active Directory on Microsoft Server (No sounds)](https://www.youtube.com/watch?v=tMJZWAHegkY&t=460s)
 - [Cyber Threat Hunt with Sentinel and Azure](https://www.youtube.com/watch?v=Dco92YgwmZM)
 - [Vulnerability Scanner with Nessus and Kali](https://www.youtube.com/watch?v=tjrU5ausQ_Y)
+- Automate Threat Investigation with XDR APIs 
 
 
 
